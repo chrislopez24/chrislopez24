@@ -3,16 +3,15 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>I was a waiter once, now a Software Engineer at <a href="https:/www.paradigmadigital.com/">Paradigma Digital</a>
-</p>
-<p>I like to automate boring and common tasks</p>
+<p>I was a waiter once, now a Software Engineer at <a href="https:/www.paradigmadigital.com/">Paradigma Digital</a></p>
+<p>I like to automate everything that's possible , Perfomance Testing and learn new things!</p>
 
 ### 👨🏽‍💻Tech Stack
 
 - 🗣 Go 𒑰 C# 𒑰 Javascript 𒑰 Python
 - 🎒 NodeJS 𒑰 Django 𒑰 React 𒑰 Redis 𒑰 Jest
 - ☁ AWS 
-- ♽ Docker 𒑰 Jenkins 𒑰 Kubernetes 𒑰 Openshift 𒑰
+- ♽ Docker 𒑰 Jenkins 𒑰 Kubernetes 𒑰 Openshift 𒑰 Dynatrace
 
 ### 🚧Current Projects:
 
@@ -41,18 +40,3 @@ Feel free to reach me out in any of the social links below to talk about possibl
 <a href="mailto:pagarizabal2@gmail.com@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/christianlopezp/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 </p>
-
-<!--
-**chrislopez24/chrislopez24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
