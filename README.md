@@ -3,7 +3,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>I was a waiter once, now a Software Engineer at <a href="https:/www.paradigmadigital.com/">Paradigma Digital</a></p>
+<p>I was a waiter once, now a Software Engineer at <a href="https://www.paradigmadigital.com">Paradigma Digital</a></p>
 <p>I like to automate everything that's possible , Perfomance Testing and learn new things!</p>
 
 ### 👨🏽‍💻Tech Stack
