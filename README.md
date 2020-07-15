@@ -36,7 +36,7 @@ Here are some things on my todo list.
 
 ---
 
-`Reach out to me on any of the social links below to talk about possible opportunities, mentorship about career changes, collaborations and everything in between!`
+Feel free to reach me out in any of the social links below to talk about possible opportunities, mentorship about career changes, collaborations and everything in between!
 
 <p align='center'>
 <a href="mailto:pagarizabal2@gmail.com@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
