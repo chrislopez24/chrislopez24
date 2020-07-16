@@ -37,6 +37,6 @@ Here are some things on my todo list.
 Feel free to reach me out in any of the social links below to talk about possible opportunities, mentorship about career changes, collaborations and everything in between!
 
 <p align='center'>
-<a href="mailto:pagarizabal2@gmail.com@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/christianlopezp/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:pagarizabal2@gmail.com@gmail.com"><img height="30" src="https://raw.githubusercontent.com/chrislopez24/chrislopez24/master/assets/icon_email.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/christianlopezp/"><img height="30" src="https://raw.githubusercontent.com/chrislopez24/chrislopez24/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 </p>
