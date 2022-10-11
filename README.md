@@ -18,6 +18,8 @@
 <p>
 I'm currently involved in:
 
+- <a href="https://dashboard.chris-homelab.com">Home Lab Dashboard</a> | _Website for Home Lab_
+
 - <a href="https://github.com/chrislopez24/corona-parser">Corona-Parser</a> | _Scrape Worldometer's Coronavirus Information and transform the data into a Dataframe and a JSON easily consumed by third party applications/services such as Bots (Telegram/Discord/Whatever), APIS or Research Studies._.
 - <a href="https://sundering-eu.netlify.app/">Sundering Website</a> | _Website for Sundering eSports_
 </p>
