@@ -32,7 +32,7 @@ Here are some things on my todo list.
 - _Neural Networks & Deep Learning_ 🤖
 
  #### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=chrislopez24)](https://github.com/chrislopez24)
+[![Stats](https://github-readme-stats.vercel.app/api?username=chrislopez24&count_private=true)](https://github.com/chrislopez24)
 
 ---
 
