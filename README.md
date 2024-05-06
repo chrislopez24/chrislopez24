@@ -8,8 +8,8 @@
 
 ### 👨🏽‍💻Tech Stack
 
-- 🗣 Go 𒑰 C# 𒑰 Javascript 𒑰 Python
-- 🎒 NodeJS 𒑰 Django 𒑰 React 𒑰 Redis 𒑰 Jest 𒑰 Kafka 
+- 🗣 Go 𒑰 C# 𒑰 Javascript 𒑰 Python 𒑰 Rust
+- 🎒 NodeJS 𒑰 Django 𒑰 React 𒑰 Redis 𒑰 Jest 𒑰 pytest 𒑰 Kafka 
 - ☁ AWS 
 - ♽ Docker 𒑰 Jenkins 𒑰 Kubernetes 𒑰 Openshift 𒑰 Dynatrace
 
@@ -21,15 +21,13 @@ I'm currently involved in:
 - <a href="https://dashboard.chris-homelab.com">Home Lab Dashboard</a> | _Website for Home Lab_
 
 - <a href="https://github.com/chrislopez24/corona-parser">Corona-Parser</a> | _Scrape Worldometer's Coronavirus Information and transform the data into a Dataframe and a JSON easily consumed by third party applications/services such as Bots (Telegram/Discord/Whatever), APIS or Research Studies._.
-- <a href="https://sundering-eu.netlify.app/">Sundering Website</a> | _Website for Sundering eSports_
 </p>
 
 ### 🌱What I'm Learning
 
 Here are some things on my todo list.
 
-- _RUST Programming Lenguage_
-- _Neural Networks & Deep Learning_ 🤖
+
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=chrislopez24&count_private=true)](https://github.com/chrislopez24)
